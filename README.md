@@ -49,7 +49,7 @@ for i in range(n):
         
 
 
-## Output:
+## Output:Screenshot_20230120_081243 png
 ![gaussian elimination](ge.png)
 
 
