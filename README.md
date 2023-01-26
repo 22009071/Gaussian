@@ -50,7 +50,7 @@ for i in range(n):
 
 
 ## Output:Screenshot_20230120_081243 png
-![gaussian elimination](ge.png)
+![](Screenshot_20230125_072202.png)
 
 
 ## Result:
